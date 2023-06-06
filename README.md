@@ -163,3 +163,15 @@ ComplaintTime VARCHAR (10),
 CONSTRAINT FOREIGN KEY (OrderId)REFERENCES Orders
 (OrderId)
 );
+
+
+
+
+
+
+
+
+
+
+
+![Capture11](https://github.com/KrishanMihiranga/reservate-MVC/assets/119467538/20c319e9-ed6d-4ab7-b6d2-c50e27e5ab77)
